@@ -1,4 +1,4 @@
-### How tu use this project
+### How to use this project
 
 - Install packages with `mvn package`
 - Run `mvn spring-boot:run` for starting the application (or use your IDE)
